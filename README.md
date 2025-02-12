@@ -1,4 +1,4 @@
-# DSGA1004 - BIG DATA
+# NYU DSGA1004 - BIG DATA
 
 ```
 source shell_setup.sh
